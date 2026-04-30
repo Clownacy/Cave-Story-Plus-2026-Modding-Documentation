@@ -60,7 +60,7 @@ Damage particle that appears when shooting an enemy.
 
 Remember the name!
 
-Big flashing circle, created when an enemy when an NPC is destroyed.
+Big flashing circle, created when an NPC is destroyed.
 
 # `CARET_SMALLSTAR`
 
