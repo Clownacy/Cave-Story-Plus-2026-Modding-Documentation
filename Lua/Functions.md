@@ -529,6 +529,22 @@ Compute cosine.
 
 
 
+# `GetDifficulty`
+
+## Description
+
+Gets the game's current difficulty.
+
+## Parameters
+
+None.
+
+## Return Value
+
+(Integer) The difficulty level (see `Constants/DIFFICULTY.md`).
+
+
+
 # `GetFramePositionX`
 
 ## Description
